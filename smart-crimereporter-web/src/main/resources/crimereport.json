@@ -1,0 +1,24 @@
+{
+  "type": "theft",
+  "date": "2018-05-26",
+  "time": "12:46:12:126",
+  "address": "8795 TY, Hamaskjoldsikl, Amstelveen",
+  "locality": "Amstelveen",
+  "description": "chain snatching",
+  "accuser": "Ronald",
+  "index": {
+    "theft": [
+      "chain snatching",
+      "gold lost"
+    ]
+  },
+  "officer": {
+    "name": "Raymanond",
+    "address": "1123 TY, cia rey basj",
+    "age": 36,
+    "gender": "Male",
+    "status": "Active",
+    "contact": "545654654",
+    "locality": "Hammasjodskl"
+  }
+}
